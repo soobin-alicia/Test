@@ -1,4 +1,4 @@
 # Zulu
 
-- belongs to Bantu langauge family
-- SOV order
+- belongs to Bantu language family
+- SVO order
